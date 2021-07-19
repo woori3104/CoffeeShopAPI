@@ -1,15 +1,9 @@
 ﻿<Properties StartupConfiguration="{680C3A05-13CE-45F2-A136-2F8BB6F9F4A9}|Default">
   <MonoDevelop.Ide.ItemProperties.CoffeeShopAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoffeeShopAPI/Interface/IReservation.cs">
     <Files>
       <File FileName="CoffeeShopAPI/Interface/ISubMenu.cs" Line="14" Column="1" />
       <File FileName="CoffeeShopAPI/Interface/IReservation.cs" Line="8" Column="6" />
-      <File FileName="CoffeeShopAPI/Data/GraphQLDbContext.cs" Line="17" Column="9" />
-      <File FileName="CoffeeShopAPI/Models/Menu.cs" Line="4" Column="24" />
-      <File FileName="CoffeeShopAPI/Startup.cs" Line="38" Column="59" />
-      <File FileName="CoffeeShopAPI/Service/MenuService.cs" Line="12" Column="9" />
-      <File FileName="CoffeeShopAPI/Service/SubMenuService.cs" Line="12" Column="9" />
-      <File FileName="CoffeeShopAPI/Service/ReservationService.cs" Line="31" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,8 +12,9 @@
             <Node name="CoffeeShopAPI" expanded="True">
               <Node name="Dependencies" expanded="True" />
               <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True">
-                <Node name="GraphQLDbContext.cs" selected="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Interface" expanded="True">
+                <Node name="IReservation.cs" selected="True" />
               </Node>
               <Node name="Service" expanded="True" />
             </Node>
